@@ -1,0 +1,14 @@
+ipykernel
+joblib
+jupyter
+keras
+matplotlib
+notebook
+numpy
+pandas
+opencv-python-headless
+Pillow
+scikit-learn
+scikit-image
+seaborn
+tensorflow
